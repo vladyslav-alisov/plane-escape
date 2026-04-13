@@ -12,6 +12,11 @@
 
 ---
 
+## 🎥 Video Demonstration
+<video src="https://github.com/user-attachments/assets/dddb458d-99f6-4c0b-ad08-cbbc762d1bef" controls width="100%"></video>
+
+---
+
 ## 🚀 Features
 
 - **Endless Flight**: The mission only ends when you crash. How long can you survive?
