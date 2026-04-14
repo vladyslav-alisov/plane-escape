@@ -13,7 +13,7 @@
 ---
 
 ## 🎥 Video Demonstration
-<video src="screenshots/plane_escape.mp4" controls width="50%" height="50%"></video>
+<video src="https://github.com/user-attachments/assets/dddb458d-99f6-4c0b-ad08-cbbc762d1bef" controls width="100%"></video>
 
 ---
 
