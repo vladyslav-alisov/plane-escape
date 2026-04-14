@@ -12,6 +12,11 @@
 
 ---
 
+## 🎥 Video Demonstration
+<video src="screenshots/plane_escape.mp4" controls width="50%" height="50%"></video>
+
+---
+
 ## 🚀 Features
 
 - **Endless Flight**: The mission only ends when you crash. How long can you survive?
